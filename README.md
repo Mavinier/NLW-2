@@ -1,6 +1,6 @@
 A aplicação foi desenvolvida durante a Next Level Week 2. Evento realizado pela RocketSeat. As tecnologias usadas para o desenvolvimento foram, Node.js, TypeScript, React e React Native.
 
-A aplicação foi desenvolvida com o propósito de ajudar as pessoas a encontrar um destino ideal para descarte de itens para serem reciclados.
+A aplicação foi desenvolvida com o propósito de conectar professores que estão interessados em compartilhar conhecimentos com alunos interessados a aprender.
 
 Para inicializar o projeto, basta realizar um clone ou baixar um .zip do repositório.
 
